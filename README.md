@@ -1,3 +1,7 @@
+Potential databases and data sources for AI-driven cosmetics discovery
+
+
+
 | Dataset/Database                                                                                                                      | Description                                                                                                                      |
 |:--------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
 | [CosIng – Cosmetic Ingredient Database](https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-ingredient-database_en) | EU database providing regulatory, safety, and functional information for cosmetic ingredients.                                   |
